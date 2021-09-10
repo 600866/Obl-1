@@ -19,7 +19,6 @@ public class o1 {
 				System.out.println((lonn - (1 - sats[i][0]) * lonn) + " i skatt");
 				}
 		}
-// test
 	}
 
 }
